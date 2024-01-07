@@ -1,5 +1,7 @@
 # insurance-recover-predictor
 
+## Demo 
+![alt text](https://github.com/robert-juang/insurance-recover-predictor/img/demo.jpg?raw=true)
 
 ## Inputs to try: 
 
