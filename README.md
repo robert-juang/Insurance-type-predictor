@@ -1,4 +1,4 @@
-# insurance-recover-predictor
+# Insurance-Type-Predictor
 
 ## Demo 
 ![alt text](https://github.com/robert-juang/insurance-recover-predictor/blob/main/img/demo.png?raw=true)
